@@ -1,0 +1,9 @@
+{
+	"name": "demohcldata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "117e5ce6-2897-4b7f-b3e3-d4d23b4845cb",
+		"tenantId": "189de737-c93a-4f5a-8b68-6f4ca9941912"
+	}
+}
