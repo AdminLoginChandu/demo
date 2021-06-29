@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "demohcldata"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
